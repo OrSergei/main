@@ -6,7 +6,8 @@ int main(){
     int b = 3;
 
     int sum = a + b;
-
+    int difference = a - b;
     printf("Cумма: %d\n",sum);
+    printf("Разность: %d\n",difference);
     return 0;
 }
